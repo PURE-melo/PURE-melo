@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PURE-melo
 - 👀 I’m interested in weakly supervised learning, object detection, and remote sensing image analysis.
-- 🌱 I’m currently learning weakly supervised object detection (WSOD) and weakly supervised semantic segmentation (WSSS).
+- 🌱 I’m currently learning weakly supervised object detection (WSOD) and hyperspectral image analysis.
 - 📫 How to reach me： gwang_2@stu.xidian.edu.cn
 
 <!---
